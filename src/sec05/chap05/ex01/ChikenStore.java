@@ -1,4 +1,4 @@
-package sec06.ex01;
+package sec05.chap05.ex01;
 
 public class ChikenStore {
     protected int no;
